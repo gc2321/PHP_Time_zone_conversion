@@ -1,0 +1,45 @@
+/* general */
+
+html { 
+  height: 100%; width: 100%;
+  margin: 0; padding: 0;
+}
+
+body {
+  height: 100%; width: 100%;
+  margin: 0; padding: 0;
+  //background: #EEE;
+  background: ffffff;
+  font: 18px Georgia,Times,"Times New Roman",serif;
+}
+
+#main-content {
+  width: 500px;
+  margin: 20px auto;
+  padding: 10px 0 20px;
+  border: 2px solid black;
+  text-align: center;
+}
+
+h1 {
+  font: 24px Arial,"Helvetica Neue",Helvetica,sans-serif;
+}
+
+
+/* Current Time Listing */
+
+dl {
+  margin: 0 25px;
+  text-align: left;
+}
+
+dl dt {
+  display: inline-block;
+  width: 300px;
+}
+
+dl dd {
+  display: inline-block;
+  width: 100px;
+  text-align: right;
+}
